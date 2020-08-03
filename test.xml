@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-03T09:19:36.684Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="E0P_igAcYfIYRduo0y-t" version="13.5.8" type="github">
+<mxfile modified="2020-08-03T09:20:04.930Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="3BLkqPYHwHeibR2MfVB2" version="13.5.8" type="github">
   <diagram id="VqOBQAtPMAOZmkM8RfQ5" name="Page-1">
     <mxGraphModel dx="439" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
         <mxCell id="6BlmE2hfX-5ZWBtoQqTa-3" value="" style="shape=mxgraph.rack.cisco.cisco_ucs_c420_m3_server;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="264" y="364.5" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6BlmE2hfX-5ZWBtoQqTa-24" value="&lt;span id=&quot;docs-internal-guid-11c6d7b7-7fff-7f5f-a247-6cda318c7b3b&quot;&gt;&lt;span&gt;视频监控、智能分析3U主机&lt;/span&gt;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="550" y="460" width="171" height="20" as="geometry" />
+        <mxCell id="6BlmE2hfX-5ZWBtoQqTa-24" value="&lt;span id=&quot;docs-internal-guid-11c6d7b7-7fff-7f5f-a247-6cda318c7b3b&quot;&gt;&lt;span&gt;视频转码3U主机&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="353" y="414.5" width="171" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6BlmE2hfX-5ZWBtoQqTa-25" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;UPS电源&amp;nbsp; &amp;nbsp; 交换机板卡&amp;nbsp; &amp;nbsp; 视屏处理器&amp;nbsp; &amp;nbsp; &amp;nbsp;硬盘&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="244" y="340" width="280" height="20" as="geometry" />
