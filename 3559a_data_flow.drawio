@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T08:36:01.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Ax96ms1-CtjHciysJzGe" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T08:36:37.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MInWO2l7Dxiq-FpWzHYr" version="13.6.2" type="github">
   <diagram id="CLXN-4MDyRrbkYTzUW4q" name="Page-1">
     <mxGraphModel dx="579" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
             <mxPoint x="379.03999999999996" y="380.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQLOy8tEcqYqoxx-tOox-38" value="HDMI 输出&lt;br&gt;调试用" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="40" height="30.04" as="geometry" />
+        <mxCell id="OQLOy8tEcqYqoxx-tOox-38" value="调试用&lt;br&gt;HDMI&amp;nbsp; 输出" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;" vertex="1" parent="1">
+          <mxGeometry x="359" y="310" width="40" height="30.04" as="geometry" />
         </mxCell>
         <mxCell id="OQLOy8tEcqYqoxx-tOox-41" value="以太网 实时主播 1个频道&amp;nbsp; H.264/265&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="220" height="20" as="geometry" />
