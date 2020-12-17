@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T06:40:07.044Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.6.2" etag="dvlKT4pOS94Kpu-T1Z_d" type="github"><diagram id="JKltIXKwlsJN1itiAiuW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T06:47:47.513Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DzSD0jYsg0o_m1auIy-1" version="13.6.2" type="github">
+  <diagram id="JKltIXKwlsJN1itiAiuW" name="Page-1">
+    <mxGraphModel dx="1857" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="hYgRkaJWp8Z81eT71pL_-1" target="hYgRkaJWp8Z81eT71pL_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-1" value="Main CPU&lt;br&gt;DDR4 512MB&lt;br&gt;eMMC 4GB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-2" value="ETH0/GMAC" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-4" value="&lt;span&gt;ETH1/GMAC&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="414" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-6" value="USB2.0 / 4G Modem /UART Internal" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-9" value="SD CARD" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-12" value="5V DC INPUT/ Maybe with&amp;nbsp; Li Battery" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYgRkaJWp8Z81eT71pL_-15" value="LEDs/Buttons" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
